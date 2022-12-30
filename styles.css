@@ -1,6 +1,7 @@
 body {
   background-color: #000000;
 }
-ol {
+h1, h2, li {
+  background-color: #000000;
   color: #FFA500;
 }
